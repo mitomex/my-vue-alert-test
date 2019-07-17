@@ -11,14 +11,14 @@ export default {
   data() {
     return {
       text: ""
-    };
+    }
   },
   methods: {
     alertText() {
-      alert(this.text);
+      alert(this.text)
     }
   }
-};
+}
 </script>
 
 <style scoped></style>

@@ -5,14 +5,14 @@
 </template>
 
 <script>
-import AlertTest from "./components/AlertTest";
+import AlertTest from "./components/AlertTest"
 
 export default {
   name: "app",
   components: {
     AlertTest
   }
-};
+}
 </script>
 
 <style>
